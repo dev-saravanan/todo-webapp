@@ -1,0 +1,69 @@
+
+
+body{
+    background-color: #181820;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.heading-text{
+    color: #FAFAFA;
+    font-size: 28px;
+}
+.subheading-text{
+    font-size: 24px;
+    color: #FAFAFA;
+}
+.para-text{
+    font-size: 16px;
+    color: #FAFAFA;
+}
+.task-container-bg{
+    background-color: #21212B;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 20px;
+}
+.anchor-link{
+    color: #FC76A1;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.anchor-link:hover{
+    color: #fc76a0b4;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.add-task-btn{
+    color: #FC76A1;
+    font-size: 30px;
+    background-color: transparent;
+    border-style: none;
+}
+
+.elements-at-right{
+    float: right;
+}
+.input-box{
+    padding: 12px;
+    background-color: #181820;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #21212B;
+    border-radius: 20px;
+    width: 90%;
+    font-size: 18px;
+    font-weight: 300;
+    color: #FAFAFA;
+}
+.input-container{
+    width: 100%;
+}
+.save-btn-style{
+    background-color: #FC76A1;
+    color: #FAFAFA;
+}
+.save-btn-style:hover{
+    background-color: #fc76a0ea;
+    color: #FAFAFA;
+}
